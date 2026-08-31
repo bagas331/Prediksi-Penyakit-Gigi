@@ -1,0 +1,29 @@
+{
+  "class_names": [
+    "Calculus",
+    "Caries",
+    "Gingivitis",
+    "Healthy",
+    "Hypodontia",
+    "Mouth_Ulcer",
+    "Tooth_Discoloration"
+  ],
+  "class_to_idx": {
+    "Calculus": 0,
+    "Caries": 1,
+    "Gingivitis": 2,
+    "Healthy": 3,
+    "Hypodontia": 4,
+    "Mouth_Ulcer": 5,
+    "Tooth_Discoloration": 6
+  },
+  "idx_to_class": {
+    "0": "Calculus",
+    "1": "Caries",
+    "2": "Gingivitis",
+    "3": "Healthy",
+    "4": "Hypodontia",
+    "5": "Mouth_Ulcer",
+    "6": "Tooth_Discoloration"
+  }
+}

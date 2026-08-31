@@ -1,0 +1,9 @@
+names:
+- Caries
+- Ulcer
+- Tooth Discoloration
+- Gingivitis
+nc: 4
+path: d:\PROJECT ALL\SKRIPSI\Prediksi Penyakit Gigi\data\yolo anotated
+train: images/train
+val: images/val
